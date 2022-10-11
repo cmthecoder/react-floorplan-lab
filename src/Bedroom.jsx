@@ -1,6 +1,8 @@
-const Bedroom = (prop) => {
+const Bedroom = (props) => {
   return (
-
+    <>
+      <h1>Bedroom {props.bedNum}</h1>
+    </>
   );
 }
 

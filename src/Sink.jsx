@@ -1,4 +1,4 @@
-const Sink = (prop) => {
+const Sink = (props) => {
   return (
     <>
     </>
