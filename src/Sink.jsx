@@ -1,6 +1,7 @@
 const Sink = (props) => {
   return (
     <>
+      <h1>Sink</h1>
     </>
   );
 }
